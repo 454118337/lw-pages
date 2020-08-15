@@ -1,0 +1,36 @@
+{
+  "name": "lw-pages",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "lw-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/454118337/lw-pages#readme",
+  "bugs": {
+    "url": "https://github.com/454118337/lw-pages/issues"
+  },
+  "license": "MIT",
+  "author": "wanghan0321 <454118337@qq.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/454118337/lw-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
