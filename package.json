@@ -13,9 +13,11 @@
   "license": "MIT",
   "author": "wanghan0321 <454118337@qq.com>",
   "files": [
-    "lib"
+    "lib",
+    "bin"
   ],
   "main": "lib/index.js",
+  "bin": "bin/lw-pages.js",
   "directories": {
     "lib": "lib"
   },
